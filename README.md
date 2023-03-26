@@ -1,6 +1,7 @@
 <html>
 <body>
 	<h1>School Schedule Telegram Bot for My School</h1>
+	<p>Created in March 2023</p>
 	<p>This is a Telegram bot that helps students of in Riga Secondary School №34 to check their school schedules. The bot is built using the aiogram library and integrates with Google Sheets to fetch and display the schedule information.</p>
 	<h2>Getting Started</h2>
 	<p>To use the bot, simply send a message to it on Telegram and follow the instructions. You will need to enter your class information in order to view your schedule.</p>
